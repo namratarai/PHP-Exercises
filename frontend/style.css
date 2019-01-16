@@ -1,0 +1,39 @@
+
+table
+{
+    
+    border-collapse: collapse;
+    width: 100%;
+    height: 50%;
+}
+tr,th,td{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    padding: 8px;
+    border: solid black 2px;
+    
+
+}
+tr:nth-child(even){
+        background-color: pink;
+        
+        
+    }
+a{
+    
+    font-size: 40px;
+    
+}
+div{
+            text-align: center;
+        
+            border: 3px solid green;
+    
+    background-color: darkgoldenrod;
+    padding: 39px;
+        }
+a{
+    font-size: 55px;
+    color: yellow;
+}
